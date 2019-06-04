@@ -1,5 +1,5 @@
 # neural-style-athalye-gui
-## An implementation of neural-style with TensorFlow by Anis Athalye: https://github.com/anishathalye/neural-style
+## An implementation of neural-style with TensorFlow by Anish Athalye: https://github.com/anishathalye/neural-style
 ## GUI by AbsurdePhoton www.absurdephoton.fr. This quick and dirty GUI uses QT
 ### v1.0 - 2018-01-08
 
